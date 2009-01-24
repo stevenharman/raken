@@ -1,0 +1,4 @@
+== 0.0.1 / 2009-01-23
+
+* Initial creation of project
+  * working on stuff!
