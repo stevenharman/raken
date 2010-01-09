@@ -1,3 +1,3 @@
-# Welcome to the (defunct) Raken project.
+# Welcome to the (deprecated) Raken project.
 
-Raken was intended to be a suite of Rake tasks to help automate the build process of .NET based systems. Now Raken is merely a pointer to a much better, actively maintained, and constantly growing project - [Albacore](http://albacorebuild.net/ "Albacore: Dolphin-Safe Rake Tasks For .NET Systems"). And the code is just a few nodes away, over at <http://github.com/derickbailey/Albacore>. Enjoy!
+Raken was intended to be a suite of Rake tasks to help automate the build process of .NET based systems. Raken has been officially deprecated in favor of a much better, actively maintained, and constantly growing project - [Albacore](http://albacorebuild.net/ "Albacore: Dolphin-Safe Rake Tasks For .NET Systems"). And the code is just a few nodes away, over at <http://github.com/derickbailey/Albacore>. Enjoy!
